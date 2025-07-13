@@ -1,4 +1,4 @@
-# 🔥 TempCam-Python - Thermal Camera Simulator
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/2dbaeaf1-186d-4efd-8c70-b10b3d601bf6" /><img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/bd511b35-7f58-4a38-8a78-5eb371eb3ce0" /># 🔥 TempCam-Python - Thermal Camera Simulator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
@@ -10,11 +10,13 @@
 ## 📸 Screenshots
 
 ### Day Mode (Chế độ ban ngày)
-![Day Mode](images/day_mode_example.png)
+![Day Mode]<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/98b12359-bc8f-4b0a-9075-1b33e53719be" />
+
 *Thermal effect với màu nóng (đỏ/vàng) cho điều kiện ánh sáng bình thường*
 
 ### Night Mode (Chế độ ban đêm)
-![Night Mode](images/night_mode_example.png)
+![Night Mode]<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/07df6b8c-f109-4e89-94c4-06d2dd84583f" />
+
 *Thermal effect với màu lạnh (xanh/tím) cho điều kiện ánh sáng thấp*
 
 ### Main Interface
